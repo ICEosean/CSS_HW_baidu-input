@@ -1,0 +1,16 @@
+input {
+    width: 535px;
+    height: 40px;
+    background-image: url(../images/camera_01.png);
+    background-position: 502px center;
+    background-repeat: no-repeat;
+
+}
+
+input:focus {
+    width: 535px;
+    height: 40px;
+    background-image: url(../images/camera_02.png);
+    background-position: 502px center;
+    background-repeat: no-repeat;
+}
